@@ -7,7 +7,7 @@ buildscript {
                 appcompat: "androidx.appcompat:appcompat:${version}",
         ]
     }
-    ext.kotlin_version = "1.4.21-2"
+    ext.kotlin_version = "1.5.20"
     repositories {
         google()
         jcenter()
